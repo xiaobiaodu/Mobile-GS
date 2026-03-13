@@ -8,15 +8,12 @@
 <!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/xiaobiaodu/DreamCar/blob/master/LICENSE)  -->
 
 
-
-
-
 <img src="assets/method.png"/>
 
 
 ## 😮 Highlights
 
-Mobile-GS can achieve real-time Gaussian Splatting on mobile devices.
+![teaser](./asset/teaser.png)
 
 
 
