@@ -14,8 +14,8 @@
 ## 😮 Highlights
 
 ![teaser](./asset/teaser.png)
+<h4 align="center"> <a href="https://github.com/xiaobiaodu/Mobile-GS/blob/main/LICENSE">You are allowed to use this repository in commercial usage for free.</a></h4>
 
-<span style="color:red">You are allowed to use this repository in commercial usage for free.</span>
 
 
 ## 🚩 **Updates**
