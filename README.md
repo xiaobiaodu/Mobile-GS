@@ -5,16 +5,17 @@
 
 [![project](https://img.shields.io/badge/Webpage-blue)](https://xiaobiaodu.github.io/mobile-gs-project/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2603.11531-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2603.11531)
-<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/xiaobiaodu/DreamCar/blob/master/LICENSE)  -->
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/xiaobiaodu/Mobile-GS/blob/main/LICENSE)
 
 
-<img src="assets/method.png"/>
+
 
 
 ## 😮 Highlights
 
 ![teaser](./asset/teaser.png)
 
+<span style="color:red">You are allowed to use this repository in commercial usage for free.</span>
 
 
 ## 🚩 **Updates**
