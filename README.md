@@ -5,7 +5,7 @@
 
 [![project](https://img.shields.io/badge/Webpage-blue)](https://xiaobiaodu.github.io/mobile-gs-project/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2603.11531-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2603.11531)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/xiaobiaodu/Mobile-GS/blob/main/LICENSE)
+
 
 
 
@@ -14,7 +14,7 @@
 ## 😮 Highlights
 
 ![teaser](./asset/teaser.png)
-<h4 align="center"> <a href="https://github.com/xiaobiaodu/Mobile-GS/blob/main/LICENSE">You are allowed to use this repository in commercial usage for free.</a></h4>
+
 
 
 
