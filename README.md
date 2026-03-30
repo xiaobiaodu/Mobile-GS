@@ -36,7 +36,7 @@ Welcome to **watch** 👀 this repository for the latest updates.
 ## Setup
 
 For installation:
-We recommend to use cuda 12.1 with python 3.11 for easy setup.
+We recommend to use cuda 11.8 with python 3.11 for easy setup.
 ```shell
 git clone git@github.com:xiaobiaodu/Mobile-GS.git
 
